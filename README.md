@@ -1,4 +1,4 @@
-# Docker APPS
+# Docker APPS Luncher
 
 DSM launcher for container web applications with a shared NAS app list and read-only live monitoring.
 
