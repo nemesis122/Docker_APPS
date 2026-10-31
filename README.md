@@ -1,10 +1,10 @@
-# Docker Launcher APP
+# Docker_APPS-Launcher
 
 DSM launcher for container web applications with a shared NAS application list and read-only live monitoring.
 
 ## Why I built this
 
-I built this app because I could no longer add direct links to my Docker container web interfaces in Synology DSM’s Container Manager. Docker Luncher APP gives me a central place to collect and open those links.
+I built this app because I could no longer add direct links to my Docker container web interfaces in Synology DSM’s Container Manager. Docker_APPS-Launcher gives me a central place to collect and open those links.
 
 ## Changes since 1.4.1
 
